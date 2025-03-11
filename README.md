@@ -22,8 +22,8 @@
 📫 Connect With Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/ndolisalton)
-- 📧 [your.email@example.com](mailto\:saltondeveloper@gmail.com)
-- 🌐 [Your Portfolio](https://salton.vercel.app)
+- 📧 [Email](mailto\:saltondeveloper@gmail.com)
+- 🌐 [My Portfolio](https://salton.vercel.app)
 
 --------------------------------------------------------------
 
